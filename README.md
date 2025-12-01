@@ -93,7 +93,9 @@ The GUI will open automatically.
 
 ## 🖼️ Screenshots (optional)
 
-> Add images here once you have them.
+<img width="801" height="784" alt="image" src="https://github.com/user-attachments/assets/91f8f4a6-8746-4073-aae0-0adf13cd89cf" />
+<img width="786" height="780" alt="image" src="https://github.com/user-attachments/assets/a681d0fa-6900-4cf6-ae84-6036d78931e2" />
+
 
 ---
 
